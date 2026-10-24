@@ -1,14 +1,3 @@
-"""
-Dashboard Interaktif Kepuasan Pelanggan - Gudeg Sekar Arum 2025
-UTS Visualisasi Data (Fase 4 / D4) - Fokus audiens No. 6: Tim layanan pelanggan
-
-Cara menjalankan:
-    pip install streamlit plotly pandas openpyxl
-    streamlit run app.py
-
-Berkas data Data_Simulasi_Penjualan_Gudeg_Jogja_2025.xlsx diletakkan satu folder
-dengan app.py (sheet "Data_Penjualan"). Jika tidak ada, unggah lewat sidebar.
-"""
 from pathlib import Path
 
 import numpy as np
